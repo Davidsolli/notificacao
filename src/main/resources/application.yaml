@@ -46,7 +46,7 @@ envio:
 
   email:
 
-    remetente: davidolisoa@gmail.com
+    remetente:
 
     nomeRemetente: 'David'
 
